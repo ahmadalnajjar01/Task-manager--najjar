@@ -4,14 +4,9 @@ Welcome to Task Manager! This project provides a seamless and intuitive platform
 
 ---
 
-## 👨‍💻 About The Team  
+## 👨‍💻 About me
 
 - **Ahmad alnajjar**: Scrum Master  
-- **abdullah alghawanmeh**: Product Owner  
-- **mohammaed abu dayyeh**: Developer  
-- **Hasan Mansour**: Developer  
-- **mohammed alsarrawi**: QA Specialist  
-
 ---
 
 ## 📄 Pages  
